@@ -40,3 +40,5 @@ https://shop.alza-racing.com/en/29-simple28
 3D printing settings
 
 Parts should be printed with 0.2mm layer height. PLA is the material of choice, minimum 3 walls, chassis and flat parts with 100% infill.
+
+https://github.com/ToplakD/Simple28-Budget-Club-Racer/blob/main/00-images/01-Simple28-render.jpg?raw=true
