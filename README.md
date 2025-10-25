@@ -7,6 +7,9 @@ Its simple design and low weight allow for good agility of the model through cor
 
 The model is not intended for professional racing or aggressive driving, but for enjoying with friends and requiring minimal maintenance with little investment. "Smooth is Fast."
 
+# Where to download complete set of files:
+https://cults3d.com/en/3d-model/game/simple-28-budget-club-racer-1-28-rc-car
+
 # Basic Video Assembly instruction:
 https://www.youtube.com/watch?v=FzzgdqYHlRI
 
@@ -35,9 +38,10 @@ https://www.facebook.com/groups/simple28rc
 
 Please note that H-Plate needs to be updated or printed in harder material than PLA due to its left to right flex, affecting the car direction.
 
-Best experience with use of Optional Carbon Fiber H-plate which will soon be available at:
+# Best experience with use of Optional Carbon Fiber:
 https://shop.alza-racing.com/en/29-simple28
-3D printing settings
+
+# 3D printing settings
 
 Parts should be printed with 0.2mm layer height. PLA is the material of choice, minimum 3 walls, chassis and flat parts with 100% infill.
 
