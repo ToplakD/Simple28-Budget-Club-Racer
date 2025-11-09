@@ -1,0 +1,1 @@
+For use with 3x6x2.5 Flanged Bearings
